@@ -1,4 +1,4 @@
-# ColorSaliencyDataSet
+# ColorSaliencyDataset
 A self-created dataset for color saliency works.  
 We open source part of the training and test sets for researchers to understand the direction of this research.   
 For the full dataset, please contact: 20192204188@stu.kust.edu.cn  
